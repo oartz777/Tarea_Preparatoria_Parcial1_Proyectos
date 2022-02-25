@@ -1,0 +1,4 @@
+año de nacimiento= 2000
+el año es= Bisiesto
+año de nacimiento= 1971
+el año es= No es bisiesto

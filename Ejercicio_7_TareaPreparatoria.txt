@@ -1,0 +1,6 @@
+Numero ingresado= 2
+Suma= 3
+Numero ingresado= 5
+Suma= 15
+Numero ingresado= 5
+Suma= 15

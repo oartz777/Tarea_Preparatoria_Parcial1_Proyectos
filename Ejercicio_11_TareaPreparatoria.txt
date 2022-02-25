@@ -1,0 +1,12 @@
+nota 1= 70
+nota 2= 80
+nota 3= 90
+estado= APROBADO
+nota 1= 90
+nota 2= 80
+nota 3= 70
+estado= APROBADO
+nota 1= 80
+nota 2= 85
+nota 3= 99
+estado= APROBADO

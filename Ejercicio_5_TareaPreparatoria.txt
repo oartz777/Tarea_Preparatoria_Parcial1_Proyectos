@@ -1,0 +1,8 @@
+Numero de origen= 20
+Numero final= 10
+Los numeros de mayor a menor: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10]
+-----------------------------------------
+Numero de origen= 20
+Numero final= 10
+Los numeros de mayor a menor: [20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10]
+-----------------------------------------

@@ -1,0 +1,7 @@
+----------------------------------
+Vocales de la palabra: madrid
+La vocal aaparece: 1veces
+La vocal eaparece: 0veces
+La vocal iaparece: 1veces
+La vocal oaparece: 0veces
+La vocal uaparece: 0veces

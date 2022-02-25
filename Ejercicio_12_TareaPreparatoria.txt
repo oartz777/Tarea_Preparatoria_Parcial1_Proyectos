@@ -1,0 +1,12 @@
+numero_1= 14
+es divisible entre 7?: SI
+numero_1= 21
+es divisible entre 7?: SI
+numero_1= 49
+es divisible entre 7?: SI
+factorial: 608281864034267560872252163321295376887552831379210240000000000
+numero_1= 5
+es divisible entre 7?: NO
+numero_1= 63
+es divisible entre 7?: SI
+factorial: 1982608315404440064116146708361898137544773690227268628106279599612729753600000000000000
